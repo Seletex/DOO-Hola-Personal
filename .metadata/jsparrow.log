@@ -1,1 +1,3 @@
 2023-04-19 16:43:51 [Worker-11: Executing the early startup extensions] INFO  eu.jsparrow.ui.a - Starting jSparrow
+2023-04-19 17:34:24 [Framework stop - Equinox Container: c50a7f41-5278-484c-bf8c-e32005504988] WARN  eu.jsparrow.license.netlicensing.h - Could not find existing license in storage, saving and returning default license
+2023-04-19 17:34:34 [Framework stop - Equinox Container: c50a7f41-5278-484c-bf8c-e32005504988] INFO  eu.jsparrow.ui.a - Stopping jSparrow
